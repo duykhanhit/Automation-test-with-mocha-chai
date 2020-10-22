@@ -8,10 +8,10 @@ npm install
 
 ## Testing
 
-``bash
+```bash
 npm test
 
-````
+```
 ## Function
 - Verify input (Example)
 ```python
